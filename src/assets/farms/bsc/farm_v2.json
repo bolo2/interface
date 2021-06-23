@@ -1,0 +1,191 @@
+[
+    {
+        "__typename": "Pool",
+        "allocPoint": "50",
+        "id": "2",
+        "masterChef": {
+            "__typename": "MasterChef",
+            "totalAllocPoint": "0"
+        },
+        "pair": "0x33f6ddaea2a8a54062e021873bcaee006cdf4007",
+        "rewarder": "0x1fd97b5e5a257b0b9b9a42a96bb8870cbdd1eb79",
+        "slpBalance": "3825967322114253521171518",
+        "type": "SLP",
+        "contract": "masterchefv2",
+        "symbol": "cvxCRV-CRV",
+        "name": "Convex CRV Curve DAO Token",
+        "pid": 2,
+        "pairAddress": "0x33f6ddaea2a8a54062e021873bcaee006cdf4007",
+        "liquidityPair": {
+            "__typename": "Pair",
+            "id": "0x33f6ddaea2a8a54062e021873bcaee006cdf4007",
+            "reserveUSD": "28249114.37785172662443051430117095",
+            "reserveETH": "11493.53280218873329836188638358088",
+            "volumeUSD": "0",
+            "untrackedVolumeUSD": "48898081.44996359545289335754927607",
+            "trackedReserveETH": "0",
+            "token0": {
+                "__typename": "Token",
+                "id": "0x62b9c7356a2dc64a1969e19c23e4f579f9810aa7",
+                "name": "Convex CRV",
+                "symbol": "cvxCRV",
+                "totalSupply": "17992",
+                "derivedETH": "0.0008852767316302598917746512871169369"
+            },
+            "token1": {
+                "__typename": "Token",
+                "id": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+                "name": "Curve DAO Token",
+                "symbol": "CRV",
+                "totalSupply": "18016",
+                "derivedETH": "0.0009066558269292087755390946499531874"
+            },
+            "reserve0": "6542197.13813385081677646",
+            "reserve1": "6286513.387331177773364296",
+            "token0Price": "1.040671789758363788344104627312797",
+            "token1Price": "0.9609177550899044991435887741526587",
+            "totalSupply": "6385804.862917313265651999",
+            "txCount": "4430",
+            "timestamp": "1621247379"
+        },
+        "rewardTokens": [
+            "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+            "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF"
+        ],
+        "sushiRewardPerDay": 228.89349684040837,
+        "secondaryRewardPerDay": 0,
+        "roiPerBlock": 1.9369035221152832e-8,
+        "roiPerHour": 0.0000052597515875499885,
+        "roiPerDay": 0.00012623403810119974,
+        "roiPerMonth": 0.003787021143035992,
+        "roiPerYear": 0.045444253716431904,
+        "rewardPerThousand": 0.013523932791544598,
+        "tvl": 16925069.088151388
+    },
+    {
+        "__typename": "Pool",
+        "allocPoint": "50",
+        "id": "1",
+        "masterChef": {
+            "__typename": "MasterChef",
+            "totalAllocPoint": "0"
+        },
+        "pair": "0x05767d9ef41dc40689678ffca0608878fb3de906",
+        "rewarder": "0x9e01aac4b3e8781a85b21d9d9f848e72af77b362",
+        "slpBalance": "40605381388537038811615",
+        "type": "SLP",
+        "contract": "masterchefv2",
+        "symbol": "CVX-WETH",
+        "name": "Convex Token Wrapped Ether",
+        "pid": 1,
+        "pairAddress": "0x05767d9ef41dc40689678ffca0608878fb3de906",
+        "liquidityPair": {
+            "__typename": "Pair",
+            "id": "0x05767d9ef41dc40689678ffca0608878fb3de906",
+            "reserveUSD": "16317814.94289036780564372284256729",
+            "reserveETH": "6643.013842397822903176",
+            "volumeUSD": "129732010.7170874891853791994350317",
+            "untrackedVolumeUSD": "129775799.1260960943183657955283081",
+            "trackedReserveETH": "6643.013842397822903176",
+            "token0": {
+                "__typename": "Token",
+                "id": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+                "name": "Convex Token",
+                "symbol": "CVX",
+                "totalSupply": "17992",
+                "derivedETH": "0.002863408334322792225501361534715569"
+            },
+            "token1": {
+                "__typename": "Token",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "name": "Wrapped Ether",
+                "symbol": "WETH",
+                "totalSupply": "17992",
+                "derivedETH": "1"
+            },
+            "reserve0": "1159983.674485064811491786",
+            "reserve1": "3321.506921198911451588",
+            "token0Price": "349.2341584723731298484121485130831",
+            "token1Price": "0.002863408334322792225501361534715569",
+            "totalSupply": "60026.24275752508985681",
+            "txCount": "13634",
+            "timestamp": "1621247057"
+        },
+        "rewardTokens": [
+            "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+            "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF"
+        ],
+        "sushiRewardPerDay": 228.89349684040837,
+        "secondaryRewardPerDay": 0,
+        "roiPerBlock": 2.9698464922993487e-8,
+        "roiPerHour": 0.000008064756258789813,
+        "roiPerDay": 0.00019355415021095551,
+        "roiPerMonth": 0.0058066245063286654,
+        "roiPerYear": 0.06967949407594398,
+        "rewardPerThousand": 0.02073619253848944,
+        "tvl": 11038357.03760698
+    },
+    {
+        "__typename": "Pool",
+        "allocPoint": "100",
+        "id": "0",
+        "masterChef": {
+            "__typename": "MasterChef",
+            "totalAllocPoint": "0"
+        },
+        "pair": "0xc3f279090a47e80990fe3a9c30d24cb117ef91a8",
+        "rewarder": "0x7519c93fc5073e15d89131fd38118d73a72370f8",
+        "slpBalance": "90466372094452424209717",
+        "type": "SLP",
+        "contract": "masterchefv2",
+        "symbol": "WETH-ALCX",
+        "name": "Wrapped Ether Alchemix",
+        "pid": 0,
+        "pairAddress": "0xc3f279090a47e80990fe3a9c30d24cb117ef91a8",
+        "liquidityPair": {
+            "__typename": "Pair",
+            "id": "0xc3f279090a47e80990fe3a9c30d24cb117ef91a8",
+            "reserveUSD": "264072060.1467228174103675420041981",
+            "reserveETH": "107504.243496124814872932",
+            "volumeUSD": "1363759111.23157532991610890502615",
+            "untrackedVolumeUSD": "1364335519.35323824619732900183155",
+            "trackedReserveETH": "107504.243496124814872932",
+            "token0": {
+                "__typename": "Token",
+                "id": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+                "name": "Wrapped Ether",
+                "symbol": "WETH",
+                "totalSupply": "17992",
+                "derivedETH": "1"
+            },
+            "token1": {
+                "__typename": "Token",
+                "id": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+                "name": "Alchemix",
+                "symbol": "ALCX",
+                "totalSupply": "18016",
+                "derivedETH": "0.298409355892123023847047981709615"
+            },
+            "reserve0": "53752.121748062407436466",
+            "reserve1": "180128.808587000732727916",
+            "token0Price": "0.298409355892123023847047981709615",
+            "token1Price": "3.351101365472960177861351877656474",
+            "totalSupply": "94108.265430411540984777",
+            "txCount": "79563",
+            "timestamp": "1614406382"
+        },
+        "rewardTokens": [
+            "0x6B3595068778DD592e39A122f4f5a5cF09C90fE2",
+            "0xdBdb4d16EdA451D0503b854CF79D55697F90c8DF"
+        ],
+        "sushiRewardPerDay": 457.78699368081675,
+        "secondaryRewardPerDay": 0,
+        "roiPerBlock": 2.582775008168132e-9,
+        "roiPerHour": 7.013645643362205e-7,
+        "roiPerDay": 0.000016832749544069292,
+        "roiPerMonth": 0.0005049824863220788,
+        "roiPerYear": 0.006059789835864946,
+        "rewardPerThousand": 0.0018033565031675281,
+        "tvl": 253852279.22576237
+    }
+]
