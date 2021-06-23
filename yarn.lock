@@ -2993,9 +2993,9 @@
   resolved "https://registry.yarnpkg.com/@sushiswap/default-token-list/-/default-token-list-6.28.0.tgz#a6e75c1d73da82bf334e084cb659884ccfb6fd8f"
   integrity sha512-O2mFnwamdSCnhVyrg49lxSphvunmN87mBvBhtGKI/wyofl9w7sGCN89a8cNE4GT4FKH/Knni7VD3nLdNvYLnjA==
 
-"@sushiswap/sdk@https://github.com/dfy-asia/dfyswap-sdk":
+"@sushiswap/sdk@https://github.com/bolo2/sdk":
   version "5.0.0-canary.7"
-  resolved "https://github.com/dfy-asia/dfyswap-sdk#0598de0c7989ab0301b42ebe1e405d7987cee786"
+  resolved "https://github.com/bolo2/sdk#665f7695931b64f141cbd50763d35f6bbea88284"
   dependencies:
     "@uniswap/v2-core" "^1.0.0"
     big.js "^5.2.2"
