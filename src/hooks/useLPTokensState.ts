@@ -1,4 +1,4 @@
-import { ChainId, Token, TokenAmount } from '@sushiswap/sdk'
+import { ChainId, Token, TokenAmount } from 'bolo2-sdk'
 import { useBoringHelperContract, useDashboardContract, useQuickSwapFactoryContract } from 'hooks/useContract'
 import { useCallback, useEffect, useRef, useState } from 'react'
 

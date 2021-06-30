@@ -10,7 +10,7 @@ import orderBy from 'lodash/orderBy'
 import sushiData from '@sushiswap/sushi-data'
 
 import { useActiveWeb3React } from '../../../../hooks/useActiveWeb3React'
-import { ChainId } from '@sushiswap/sdk'
+import { ChainId } from 'bolo2-sdk'
 
 import FarmBKCV1 from '../../../../assets/farms/bkc/farm_v1.json'
 import FarmBSCV1 from '../../../../assets/farms/bsc/farm_v1.json'

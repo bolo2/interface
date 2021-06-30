@@ -1,4 +1,4 @@
-import { Percent } from '@sushiswap/sdk'
+import { Percent } from 'bolo2-sdk'
 import React from 'react'
 import { ONE_BIPS } from '../../constants'
 import { warningSeverity } from '../../utils/prices'

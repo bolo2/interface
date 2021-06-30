@@ -2993,18 +2993,6 @@
   resolved "https://registry.yarnpkg.com/@sushiswap/default-token-list/-/default-token-list-6.28.0.tgz#a6e75c1d73da82bf334e084cb659884ccfb6fd8f"
   integrity sha512-O2mFnwamdSCnhVyrg49lxSphvunmN87mBvBhtGKI/wyofl9w7sGCN89a8cNE4GT4FKH/Knni7VD3nLdNvYLnjA==
 
-"@sushiswap/sdk@https://github.com/bolo2/sdk":
-  version "5.0.0-canary.7"
-  resolved "https://github.com/bolo2/sdk#665f7695931b64f141cbd50763d35f6bbea88284"
-  dependencies:
-    "@uniswap/v2-core" "^1.0.0"
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.1"
-    tiny-invariant "^1.1.0"
-    tiny-warning "^1.0.3"
-    toformat "^2.0.0"
-
 "@sushiswap/sushi-data@1.0.26":
   version "1.0.26"
   resolved "https://registry.yarnpkg.com/@sushiswap/sushi-data/-/sushi-data-1.0.26.tgz#6f9d68f0193d7bb3839262fe47dcd095478ee3e1"
@@ -5889,6 +5877,19 @@ body-parser@1.19.0, body-parser@^1.16.0:
     qs "6.7.0"
     raw-body "2.4.0"
     type-is "~1.6.17"
+
+bolo2-sdk@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/bolo2-sdk/-/bolo2-sdk-1.0.1.tgz#8453fd8289eb1c8c6b954deed0425e0261990b7f"
+  integrity sha512-1zPKBe9OWsYWWhDIfTfdhmz5PxpaJ2HcoekETa5wVjKF0pbrF3vIRVvMoGYBeSKHgkKH+OgG/GLdw++ABcPiyg==
+  dependencies:
+    "@uniswap/v2-core" "^1.0.0"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.1"
+    tiny-invariant "^1.1.0"
+    tiny-warning "^1.0.3"
+    toformat "^2.0.0"
 
 bonjour@^3.5.0:
   version "3.5.0"

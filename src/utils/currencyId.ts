@@ -1,4 +1,4 @@
-import { Currency, ETHER, Token } from '@sushiswap/sdk'
+import { Currency, ETHER, Token } from 'bolo2-sdk'
 
 export function currencyId(currency: Currency): string {
     if (currency === ETHER) return 'ETH'

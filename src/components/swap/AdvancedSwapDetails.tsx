@@ -1,4 +1,4 @@
-import { Trade, TradeType, ChainId } from '@sushiswap/sdk'
+import { Trade, TradeType, ChainId } from 'bolo2-sdk'
 import { useActiveWeb3React } from 'hooks/useActiveWeb3React'
 import React, { useContext } from 'react'
 import { ThemeContext } from 'styled-components'

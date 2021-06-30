@@ -1,5 +1,5 @@
 import { createAction } from '@reduxjs/toolkit'
-import { ChainId } from '@sushiswap/sdk'
+import { ChainId } from 'bolo2-sdk'
 
 export interface SerializableTransactionReceipt {
     to: string

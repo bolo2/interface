@@ -1,4 +1,4 @@
-import { Currency, Percent, Price } from '@sushiswap/sdk'
+import { Currency, Percent, Price } from 'bolo2-sdk'
 import React, { useContext } from 'react'
 import { Text } from 'rebass'
 import { ThemeContext } from 'styled-components'
