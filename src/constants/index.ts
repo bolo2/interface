@@ -87,6 +87,7 @@ const WRAPPED_NATIVE_ONLY: ChainTokenList = {
     [ChainId.XDAI]: [WETH[ChainId.XDAI]],
     [ChainId.BKC]: [WETH[ChainId.BKC]],
     [ChainId.BSC]: [WETH[ChainId.BSC]],
+    [ChainId.XCHAIN]: [WETH[ChainId.XCHAIN]],
     [ChainId.BSC_TESTNET]: [WETH[ChainId.BSC_TESTNET]],
     [ChainId.ARBITRUM]: [WETH[ChainId.ARBITRUM]],
     [ChainId.MOONBASE]: [WETH[ChainId.MOONBASE]],

@@ -133,6 +133,17 @@ const PARAMS: {
         },
         rpcUrls: ['https://exchainrpc.okex.org'],
         blockExplorerUrls: ['https://www.oklink.com/okexchain']
+    },
+    [ChainId.XCHAIN]: {
+        chainId: '0x23', 
+        chainName: 'X-Chain', 
+        nativeCurrency: { 
+            name: 'XTH Coin', 
+            symbol: 'XTH', 
+            decimals: 18 
+        }, 
+        rpcUrls: ['https://rpc.xchain.asia'], 
+        blockExplorerUrls: ['https://www.exp.xchain.asia']
     }
 }
 

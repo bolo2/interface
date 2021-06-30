@@ -27,6 +27,7 @@ export const NETWORK_ICON = {
     [ChainId.FANTOM_TESTNET]: Fantom,
     [ChainId.BKC]: Bkc,
     [ChainId.BSC]: Bsc,
+    [ChainId.XCHAIN]: Bsc,
     [ChainId.BSC_TESTNET]: Bsc,
     [ChainId.MATIC]: Polygon,
     [ChainId.MATIC_TESTNET]: Matic,
